@@ -15,7 +15,7 @@
 Сервер возвращает 500 ошибку с пометкой на ошибку сервера
 
 *Файлы:*
-[Screenshot](https://monosnap.com/direct/1Uf42R7KkcCuTdoI8K8cXRSQrsNWPg)
+[Нажмите для просмотра изображения](https://monosnap.com/direct/1Uf42R7KkcCuTdoI8K8cXRSQrsNWPg)
 
 
 ## Баг-репорт 2
@@ -35,7 +35,7 @@
 Сервер возваращет 200 код, но пишет сообщение, что "Параметр 'page_size' может быть одним из следующих значений: 5, 10, 15"
 
 *Файлы:*
-![](https://monosnap.com/direct/YkwXwVwly24sm5OsQTXXjETEHOJlk8)
+[Нажмите для просмотра изображения](https://monosnap.com/direct/YkwXwVwly24sm5OsQTXXjETEHOJlk8)
 
 
 ## Баг-репорт 3
@@ -55,4 +55,4 @@
 В ответе приходит регионы с кодом kz и kg
 
 *Файлы:*
-![](https://monosnap.com/direct/jDesNLhxk7n77lW0hwV0pLeiAa5k13)
+[Нажмите для просмотра изображения](https://monosnap.com/direct/jDesNLhxk7n77lW0hwV0pLeiAa5k13)
