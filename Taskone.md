@@ -15,7 +15,7 @@
 Сервер возвращает 500 ошибку с пометкой на ошибку сервера
 
 *Файлы:*
-![Screenshot](https://monosnap.com/direct/1Uf42R7KkcCuTdoI8K8cXRSQrsNWPg)
+[Screenshot](https://monosnap.com/direct/1Uf42R7KkcCuTdoI8K8cXRSQrsNWPg)
 
 
 ## Баг-репорт 2
